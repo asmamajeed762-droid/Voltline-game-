@@ -1,0 +1,1 @@
+window.IMG={hero:'assets/img/hero.jpg',ninja:'assets/img/ninja.jpg',car:'assets/img/car.jpg',room:'assets/img/room.jpg',street:'assets/img/street.jpg',ship:'assets/img/ship.jpg',hacker:'assets/img/hacker.jpg',mech:'assets/img/mech.jpg',bike:'assets/img/bike.jpg',arena:'assets/img/arena.jpg',roof:'assets/img/roof.jpg',squad:'assets/img/squad.jpg'};
